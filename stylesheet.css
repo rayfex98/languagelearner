@@ -425,6 +425,10 @@ padding-top: 6%;
    margin:10px;
    text-decoration: none;
 }
+nav a {
+    display: flex;
+    align-items: center; /* Alinea verticalmente el texto con la imagen */
+}
 
 .nivel1{
     background-color: #BE26A4;
